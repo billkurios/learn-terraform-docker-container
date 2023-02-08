@@ -1,0 +1,7 @@
+# Folder automatically created
+# by 'terraform init' command
+.terraform/
+
+# Files automatically created and maintained
+# by 'terraform init' command
+.terraform.lock.hcl
